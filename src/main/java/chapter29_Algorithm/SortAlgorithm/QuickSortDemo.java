@@ -21,6 +21,11 @@ public class QuickSortDemo {
 
     public static void QuickSortWay(int[] array ,int s, int e) {
 
+
+        if (s >= e){
+            return;
+        }
+
         int start = s;
         int end = e;
 
@@ -28,9 +33,7 @@ public class QuickSortDemo {
         int baseNumber = array[s];
 
 
-        if (start >= end){
-            return;
-        }
+
         //从左往右找比基准数大的数字
         //从右往左找比基准数小的数字
         while (start != end){

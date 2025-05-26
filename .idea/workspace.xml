@@ -5,476 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e9e2b5d-cc7a-4b4b-b809-fd99e8e47dbd" name="Changes" comment="">
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ToolUsage/pojo.java" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girl/psc (16).jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girl/psc (17).jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/psc (16).jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/psc (17).jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text.zip" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/GamblePrize/Money.txt" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/GamblePrize/PriceList.txt" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/QQ截图20231103015131.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/QQ截图20231031141743.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/QQ截图20231031204141.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/QQ截图20231031210948.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/QQ截图20231031213356.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Student/Boys.java" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Student/重写.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Super/QQ截图20231031222828.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/thissuper总结.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/特点.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/练习,想写就写.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/重写方法.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/QQ截图20231105114646.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/QQ截图20231105150934.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/anonymous/QQ截图20231107002727.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/test/QQ截图20231106201913.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/QQ截图20231103105324.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/QQ截图20231103110048.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/QQ截图20231104220643.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/QQ截图20231104222630.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/QQ截图20231104222653.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/QQ截图20231102163616.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/QQ截图20231102164703.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/QQ截图20231102170048.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/QQ截图20231029105051.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/codeblock/总结.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/QQ截图20231102002328.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/QQ截图20231102004045.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter11_API_math/QQ截图20231112201021.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter12_API_System/QQ截图20231112223007.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/Objects/QQ截图20231127161545.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/clone/QQ截图20231116012943.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/clone/QQ截图20231124024832.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter15_API_BigInteger/QQ截图20231127162836.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter15_API_BigInteger/QQ截图20231127170311.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter15_API_BigInteger/QQ截图20231127170447.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter15_API_BigInteger/QQ截图20231127172128.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/SortDemo.java" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Client/client.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Client/cover.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server/client.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server/cover.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server/server.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server/server1.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server/server2.jpg" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/Practise/Bubble/BubblePractise1/Practise2.java" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/Practise/Bubble/BubblePractise1/img.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/Files/img.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/Files/img_1.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/Files/img_2.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/Files/img_3.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/Files/img.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter2_transformer/transform/逻辑运算符.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter2_transformer/transform/隐式转换注意事项.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/construction/注意事项.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/QQ截图20231017005705.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/底层原理34.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/底层原理5.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/总结.png" afterDir="false" />
-      <change afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/包装类.png" afterDir="false" />
-      <change beforePath="F:/JavaLearning/.idea/workspace.xml" beforeDir="false" afterPath="F:/JavaLearning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test4.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test4.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test5.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test5.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/Test/test6.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test6.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/demo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/demo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter24_File/Demo/demo3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/demo3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/AESExample.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/AESExample.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo1字符流/demo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo1字符流/demo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo1字符流/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo1字符流/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo1字符流/demo3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo1字符流/demo3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo1字符流/demo4.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo1字符流/demo4.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo2缓冲流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo2缓冲流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo2缓冲流/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo2缓冲流/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo2缓冲流/demo3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo2缓冲流/demo3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo3转换流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo3转换流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo3转换流/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo3转换流/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo4序列化流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo4序列化流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo4序列化流/object/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo4序列化流/object/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo4序列化流/object/Student1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo4序列化流/object/Student1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo5打印流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo5打印流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo6解压缩流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo6解压缩流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/CopyFiles.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/CopyFiles.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/demo3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/demo3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/demo4.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/demo4.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Demo字节流/demo5.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Demo字节流/demo5.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/AccessTime.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/AccessTime.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/Copy.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/Copy.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/CopyMethod.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/CopyMethod.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/Encryption.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/Encryption.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/Epang.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/Epang.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/Sort.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/Sort.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/ToZip.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/ToZip.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/TransformStream.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/TransformStream.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/Test/XOREnde.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/Test/XOREnde.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ThreadPool/MaxCount.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ThreadPool/MaxCount.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ThreadPool/Pool/MyRunnable.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ThreadPool/Pool/MyRunnable.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ThreadPool/Pool/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ThreadPool/Pool/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ThreadPool/SelfPool/MyRunnable.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ThreadPool/SelfPool/MyRunnable.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ThreadPool/SelfPool/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ThreadPool/SelfPool/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ToolUsage/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/ToolUsage/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/ToolUsage/pojo.java" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/apgf.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/apgf.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/apgf1.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/apgf1.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/count.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/count.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girl.mp4" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girl.zip" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girl/666/girl.html" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girl/psc (16).jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girl/psc (17).jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/girlsOBJ.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girlsOBJ.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/psc (16).jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/psc (17).jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text.zip" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/严欢欢.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/严欢欢.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/应鑫榆长大了.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/应鑫榆长大了.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/张温绮.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/张温绮.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/张铭慧.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/张铭慧.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/张雪仪.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/张雪仪.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/沈婧怡.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/沈婧怡.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/翁彩霞宝宝.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/翁彩霞宝宝.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/text/金语彤宝宝.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/text/金语彤宝宝.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/url.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/url.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/权重随机算法/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/权重随机算法/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/权重随机算法/WeightCalculation.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/权重随机算法/WeightCalculation.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/权重随机算法/file.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/权重随机算法/file.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/随机点名器4/RandomName.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/随机点名器4/RandomName.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/随机点名器4/name.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/随机点名器4/name.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter25_IO/随机点名器4/tempName.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/随机点名器4/tempName.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part1/MyTread.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part1/MyTread.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part1/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part1/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part2/MyRun.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part2/MyRun.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part2/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part2/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part3/MyCallable.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part3/MyCallable.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Part3/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Part3/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Synchronization/Mission.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Synchronization/Mission.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Synchronization/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Synchronization/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/DeliverPresent/Present.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/DeliverPresent/Present.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/DeliverPresent/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/DeliverPresent/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/GamblePrize/Money.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girl.mp4" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/GamblePrize/MoneyTemp.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/GamblePrize/MoneyTemp.txt" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/GamblePrize/PriceList.txt" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girl.zip" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/GamblePrize/PricePool.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/GamblePrize/PricePool.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/GamblePrize/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/GamblePrize/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/OddNumber/Odd.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/OddNumber/Odd.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/OddNumber/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/OddNumber/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/SellMovieTicket/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/SellMovieTicket/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/SellMovieTicket/Ticket.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/SellMovieTicket/Ticket.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/StriveRedPack/RedPack.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/StriveRedPack/RedPack.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/Test/StriveRedPack/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/Test/StriveRedPack/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/WaitAndNotify/Cook.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/WaitAndNotify/Cook.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/WaitAndNotify/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/WaitAndNotify/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/WaitAndNotify/Foddie.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/WaitAndNotify/Foddie.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter26_Thread/WaitAndNotify/Table.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter26_Thread/WaitAndNotify/Table.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter28_Reflection/Class/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/JavaBean/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/Chapter28_Reflection/Class/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Class/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/JSPFiles/ccd.jsp" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Chapter25_IO/girl/666/girl.html" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter1/calculate.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter1/calculate.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter1/first.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter1/first.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter1/judge.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter1/judge.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter1/nine.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter1/nine.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/QQ截图20231103015131.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/test/Animals.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/test/Animals.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/test/Dog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/test/Dog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/test/Frog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/test/Frog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/test/Sheep.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/test/Sheep.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Abstract/test/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Abstract/test/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/Animal.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/Animal.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/QQ截图20231031141743.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/cats/Cat.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/cats/Cat.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/cats/DragonLi.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/cats/DragonLi.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/cats/Ragdoll.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/cats/Ragdoll.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/dogs/Dog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/dogs/Dog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/dogs/Poodle.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/dogs/Poodle.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Animals/dogs/SiberianHusky.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Animals/dogs/SiberianHusky.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/QQ截图20231031204141.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/QQ截图20231031210948.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/QQ截图20231031213356.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Student/Boys.java" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Student/Girls.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Student/Girls.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Student/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Student/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Student/StudentAtrr.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Student/StudentAtrr.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Student/重写.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Super/Father.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Super/Father.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Super/GrandFather.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Super/GrandFather.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Super/QQ截图20231031222828.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Super/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Super/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Test0/Cooker.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Test0/Cooker.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Test0/Manager.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Test0/Manager.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Test0/Profession.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Test0/Profession.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/Test0/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Extend/Test0/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/thissuper总结.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/特点.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/练习,想写就写.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Extend/重写方法.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/QQ截图20231105114646.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/QQ截图20231105150934.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/anonymous/QQ截图20231107002727.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/anonymous/Stu/Jiajia.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/anonymous/Stu/Jiajia.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/anonymous/Stu/Minghui.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/anonymous/Stu/Minghui.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/anonymous/Stu/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/anonymous/Stu/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/anonymous/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/anonymous/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/test/Outer.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/test/Outer.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/test/QQ截图20231106201913.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/InnerClass/test/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/InnerClass/test/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/BenKe.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/BenKe.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/DaZhuan.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/DaZhuan.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/Decision.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/Decision.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/ShuoShi.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/ShuoShi.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/Students.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/Students.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/Demo/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/Demo/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/QQ截图20231103105324.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/QQ截图20231103110048.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/QQ截图20231104220643.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/QQ截图20231104222630.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/QQ截图20231104222653.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/adapter适配器/ImplAdapter.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/adapter适配器/ImplAdapter.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/adapter适配器/Option.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/adapter适配器/Option.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/adapter适配器/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/adapter适配器/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/adapter适配器/Using.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/adapter适配器/Using.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/animals/Actions.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/animals/Actions.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/animals/Animals.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/animals/Animals.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/animals/Dog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/animals/Dog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/animals/Forg.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/animals/Forg.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/animals/Rabbit.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/animals/Rabbit.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/Bas/BasA.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/Bas/BasA.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/Bas/BasC.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/Bas/BasC.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/Bas/BasketBall.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/Bas/BasketBall.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/English.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/English.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/PingPong/PingA.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/PingPong/PingA.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/PingPong/PingC.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/PingPong/PingC.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/PingPong/PingPong.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/PingPong/PingPong.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/SportClubMember.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/SportClubMember.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Interface/sportclub/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Interface/sportclub/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/QQ截图20231102163616.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/QQ截图20231102164703.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/QQ截图20231102170048.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/ArrayUtil/ArrayUtil.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/ArrayUtil/ArrayUtil.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/ArrayUtil/TestDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/ArrayUtil/TestDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/QQ截图20231029105051.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/Stu/Action.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/Stu/Action.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/Stu/StudentDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/Stu/StudentDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/Student/MaxTool.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/Student/MaxTool.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/Student/StuAttr.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/Student/StuAttr.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/Static/Student/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/Static/Student/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/codeblock/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/codeblock/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/codeblock/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/codeblock/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/codeblock/总结.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Person/Boys.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Person/Boys.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Person/Girls.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Person/Girls.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Person/Person.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Person/Person.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Person/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Person/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/QQ截图20231102002328.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/QQ截图20231102004045.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Test/Animal.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Test/Animal.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Test/Cat.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Test/Cat.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Test/Dog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Test/Dog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Test/Person.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Test/Person.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter10_OOP2/polymorphism/Test/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter10_OOP2/polymorphism/Test/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter11_API_math/Prime.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter11_API_math/Prime.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter11_API_math/QQ截图20231112201021.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter11_API_math/mathDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter11_API_math/mathDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter11_API_math/自幂数/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter11_API_math/自幂数/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter12_API_System/QQ截图20231112223007.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter13_API_Runtime/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter13_API_Runtime/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/Objects/QQ截图20231127161545.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/Objects/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/clone/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/Objects/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/Objects/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/clone/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/clone/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/clone/QQ截图20231116012943.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/clone/QQ截图20231124024832.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter14_API_Object/clone/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter14_API_Object/Objects/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter15_API_BigInteger/QQ截图20231127162836.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter15_API_BigInteger/QQ截图20231127170311.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter15_API_BigInteger/QQ截图20231127170447.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter15_API_BigInteger/QQ截图20231127172128.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter15_API_BigInteger/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter15_API_BigInteger/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter16_API_BigDecimal/Demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter16_API_BigDecimal/Demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter17_API_Date/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter17_API_Date/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/Girl.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/Girl.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/Lambda.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/Lambda.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/MonkeyEat.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/MonkeyEat.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/Practise1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/Practise1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/ReproduceRabbit.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/ReproduceRabbit.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/SortDemo.java" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter18_API_Sort/WaklingStairs.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter18_API_Sort/WaklingStairs.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Foreach/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Foreach/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/Animal/Animal.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/Animal/Animal.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/Animal/Cat.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/Animal/Cat.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/Animal/Dog.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/Animal/Dog.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/Animal/breedAnimal.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/Animal/breedAnimal.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/addAllUtil.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/addAllUtil.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Generics/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Generics/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Iterator/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Iterator/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/Set/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/Set/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/TreeSet/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/TreeSet/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/TreeSet/Test/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/TreeSet/Test/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/TreeSet/Test/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/TreeSet/Test/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/TreeSet/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/TreeSet/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter19_Collection/TreeSet/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter19_Collection/TreeSet/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter20_Map/HashMap/Statistic.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter20_Map/HashMap/Statistic.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter20_Map/HashMap/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter20_Map/HashMap/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter20_Map/HashMap/demo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter20_Map/HashMap/demo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter20_Map/TreeMap/Statistic.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter20_Map/TreeMap/Statistic.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter20_Map/methods/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter20_Map/methods/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/com/demo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/com/demo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/com/demo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/com/demo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/test/Actor.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/test/Actor.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/test/dataOperation.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/test/dataOperation.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/test/findeven.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/test/findeven.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter21_Stream/test/toMap.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter21_Stream/test/toMap.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter22_methodCite/demo/demo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter22_methodCite/demo/demo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter22_methodCite/demo/demo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter22_methodCite/demo/demo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter22_methodCite/test/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter22_methodCite/test/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter22_methodCite/test/test1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter22_methodCite/test/test1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter23_Exception/Demo/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter23_Exception/Demo/Test/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/Test/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter23_Exception/Demo/demo1.java" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter23_Exception/Demo/exponential.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Demo/exponential.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/TCP/Client.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/TCP/Client.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/TCP/Server.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/TCP/Server.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test1/Client1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test1/Client1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test1/Server1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test1/Server1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test2/Client2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test2/Client2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test2/Server2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test2/Server2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Client/client.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Client/cover.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Client3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Client3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/MyRunnable.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/MyRunnable.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server/client.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server/cover.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server/server.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server/server1.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server/server2.jpg" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/Test/Test3/Server3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/Test/Test3/Server3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/UDP/Receive.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/UDP/Receive.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter27_Socket/UDP/Send.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter27_Socket/UDP/Send.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/Practise/BinarySearch/BinaryPractise1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/Practise/BinarySearch/BinaryPractise1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/Practise/Bubble/BubblePractise1/Practise1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/Practise/Bubble/BubblePractise1/Practise1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/Practise/Bubble/BubblePractise1/img.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/RecursiveAlgorithm/RecursiveDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/RecursiveAlgorithm/RecursiveDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/BasicSearchDemo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/BasicSearchDemo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/BasicSearchDemo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/BasicSearchDemo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/BinarySearchDemo1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/BinarySearchDemo1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/BlockSearch.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SearchAlgorithm/BlockSearch.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/Files/img.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/Files/img_1.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/Files/img_2.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SearchAlgorithm/Files/img_3.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/BubbleDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/BubbleDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/Files/img.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/InsertionSortDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/InsertionSortDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/InsertionSortDemo2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/InsertionSortDemo2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/QuickSortDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/QuickSortDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter29_Algorithm/SortAlgorithm/SelectionSortDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter29_Algorithm/SortAlgorithm/SelectionSortDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter2_transformer/transform/Transformer1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter2_transformer/transform/Transformer1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter2_transformer/transform/Transformer2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter2_transformer/transform/Transformer2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter2_transformer/transform/逻辑运算符.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter2_transformer/transform/隐式转换注意事项.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/Switch/Case.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/Switch/Case.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/Switch/Default.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/Switch/Default.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/Switch/NewCharacter.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/Switch/NewCharacter.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/Switch/NewCharacter_test/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/Switch/NewCharacter_test/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/Switch/NewCharacter_test/test2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/Switch/NewCharacter_test/test2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter3_if_and_switch/ifelse/if_else.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter3_if_and_switch/ifelse/if_else.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/For/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/For/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/For/test2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/For/test2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/For/try_for.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/For/try_for.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/While/Back_Number.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/While/Back_Number.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/While/Divide.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/While/Divide.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/While/try_While.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/While/try_While.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/exercise/guess_number.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/exercise/guess_number.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/exercise/prime.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/exercise/prime.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/exercise/sqrt.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/exercise/sqrt.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter4_circulation/exercise/test1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter4_circulation/exercise/test1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/basis/about_array.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/basis/about_array.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/dynamic_initialize/initialize.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/dynamic_initialize/initialize.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/ergodic/ergodic.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/ergodic/ergodic.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/ergodic/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/ergodic/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/test/Sum.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/test/Sum.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/test/exchange.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/test/exchange.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/test/max_number.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/test/max_number.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter5_list/test/mess.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter5_list/test/mess.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/about_method/method.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/about_method/method.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/definition/Definite.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/definition/Definite.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/definition/Square.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/definition/Square.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/test1/Array.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/test1/Array.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/test1/Copy.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/test1/Copy.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/test1/Exist.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/test1/Exist.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/test1/Max.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/test1/Max.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/with_return/Comparison.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/with_return/Comparison.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter6_method/with_return/Return.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter6_method/with_return/Return.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/Feng/Get.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/Feng/Get.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/Feng/GirlFriend.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/Feng/GirlFriend.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/JavaBean/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/Class/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/SomeTest/Fight/FightGame.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/SomeTest/Fight/FightGame.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/SomeTest/Fight/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/SomeTest/Fight/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/about_class/Function.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/about_class/Function.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/about_class/test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/about_class/test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/construction/Construct.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/construction/Construct.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/construction/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter7_OOP/construction/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter7_OOP/construction/注意事项.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/CashTrans.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/CashTrans.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/Converse.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/Converse.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/ImLogin.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/ImLogin.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/PhoneTrans.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/PhoneTrans.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/Statistics.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/Statistics.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/StringOp.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/StringOp.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/Traversal.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/Traversal.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Practise/replaceF.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Practise/replaceF.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/Comparison.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/Comparison.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/QQ截图20231017005705.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/StringApp.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringAPI/StringApp.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/底层原理34.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/底层原理5.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringAPI/总结.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringBuilder/Builder.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringBuilder/Builder.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringBuilder/test/chain.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringBuilder/test/chain.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/StringBuilder/test/reverse.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/StringBuilder/test/reverse.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/Test/RomaNumber.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/Test/RomaNumber.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter8_String/joiner/Joiner.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter8_String/joiner/Joiner.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/ArrayList/ArrayListDemo.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/ArrayList/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/StudentPoJo进阶/studentSystem/App.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/StudentPoJo进阶/studentSystem/App.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Function.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Function.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Test.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/StudentPoJo进阶/studentSystem/Test.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/StudentPoJo进阶/studentSystem/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/StudentPoJo进阶/studentSystem/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Phone/Phone.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Phone/Phone.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Phone/SubPrice.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Phone/SubPrice.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Student/Student.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Student/Student.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Student/Test3.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Student/Test3.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Test1.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Test1.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/Test2.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/Test2.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/User/Check.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/User/Check.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/Test/User/User.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/chapter9_ArrayList/Test/User/User.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/chapter9_ArrayList/包装类.png" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Comment_score.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Comment_score.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Copy.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Copy.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Decode.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Decode.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Encode.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Encode.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Find_primes.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Find_primes.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Red_pack.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Red_pack.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Sell_tickets.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Sell_tickets.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Two_color_balls.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Two_color_balls.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Two_dimensional_group.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Two_dimensional_group.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/method_test/Verified_code.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/method_test/Verified_code.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/others/IMOT5.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/others/IMOT5.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/others/testRand.java" beforeDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/puzzle_game/com/App.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/gamepuzzle/App.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/puzzle_game/com/Login/LoginJF.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/gamepuzzle/Login/LoginJF.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/puzzle_game/com/Main/MainJF.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/gamepuzzle/Main/MainJF.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/puzzle_game/com/Signup/SignupJF.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/gamepuzzle/Signup/SignupJF.java" afterDir="false" />
-      <change beforePath="F:/JavaLearning/src/main/java/org/example/puzzle_game/com/Test/array.java" beforeDir="false" afterPath="F:/JavaLearning/src/main/java/gamepuzzle/Test/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter29_Algorithm/Practise/QuickSort/QuickSortPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter29_Algorithm/SearchAlgorithm/BlockSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter29_Algorithm/SearchAlgorithm/BlockSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter29_Algorithm/SortAlgorithm/QuickSortDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter29_Algorithm/SortAlgorithm/QuickSortDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -489,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="F:/JavaLearning" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
@@ -517,6 +53,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
@@ -543,11 +80,11 @@
       <recent name="org.example.chapter29_Algorithm.Practise.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practise2">
+  <component name="RunManager" selected="Application.QuickSortPractice">
     <configuration name="BinaryPractise1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter29_Algorithm.Practise.BinarySearch.BinaryPractise1" />
       <module name="JavaLearning" />
-      <option name="WORKING_DIRECTORY" value="F:/JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter29_Algorithm.Practise.BinarySearch.*" />
@@ -558,10 +95,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BlockSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter29_Algorithm.SearchAlgorithm.BlockSearch" />
+      <module name="JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter29_Algorithm.SearchAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter29_Algorithm.Practise.Bubble.BubblePractise1.Practise1" />
       <module name="JavaLearning" />
-      <option name="WORKING_DIRECTORY" value="F:/JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter29_Algorithm.Practise.Bubble.BubblePractise1.*" />
@@ -575,7 +126,7 @@
     <configuration name="Practise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter29_Algorithm.Practise.Bubble.BubblePractise1.Practise2" />
       <module name="JavaLearning" />
-      <option name="WORKING_DIRECTORY" value="F:/JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter29_Algorithm.Practise.Bubble.BubblePractise1.*" />
@@ -586,20 +137,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSortPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter29_Algorithm.Practise.QuickSort.QuickSortPractice" />
+      <module name="JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter29_Algorithm.Practise.QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <module name="JavaLearning" />
-      <option name="WORKING_DIRECTORY" value="F:/JavaLearning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.BinaryPractise1" />
+      <item itemvalue="Application.QuickSortPractice" />
+      <item itemvalue="Application.BlockSearch" />
       <item itemvalue="Application.Practise2" />
       <item itemvalue="Application.Practise1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSortPractice" />
+        <item itemvalue="Application.BlockSearch" />
         <item itemvalue="Application.Practise2" />
         <item itemvalue="Application.Practise1" />
       </list>
@@ -614,7 +183,9 @@
       <option name="presentableId" value="Default" />
       <updated>1748188413276</updated>
       <workItem from="1748188414844" duration="109000" />
-      <workItem from="1748188531189" duration="2377000" />
+      <workItem from="1748188531189" duration="3783000" />
+      <workItem from="1748195209692" duration="156000" />
+      <workItem from="1748272141561" duration="3889000" />
     </task>
     <servers />
   </component>
@@ -635,5 +206,9 @@
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

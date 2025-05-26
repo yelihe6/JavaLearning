@@ -1,5 +1,9 @@
 package chapter29_Algorithm.SearchAlgorithm;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -84,70 +88,11 @@ public class BlockSearch {
 
 }
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 class Block{
     private int max;
     private int maxIndex;
     private int minIndex;
-
-
-    public Block() {
-    }
-
-    public Block(int max, int maxIndex, int minIndex) {
-        this.max = max;
-        this.maxIndex = maxIndex;
-        this.minIndex = minIndex;
-    }
-
-    /**
-     * 获取
-     * @return max
-     */
-    public int getMax() {
-        return max;
-    }
-
-    /**
-     * 设置
-     * @param max
-     */
-    public void setMax(int max) {
-        this.max = max;
-    }
-
-    /**
-     * 获取
-     * @return maxIndex
-     */
-    public int getMaxIndex() {
-        return maxIndex;
-    }
-
-    /**
-     * 设置
-     * @param maxIndex
-     */
-    public void setMaxIndex(int maxIndex) {
-        this.maxIndex = maxIndex;
-    }
-
-    /**
-     * 获取
-     * @return minIndex
-     */
-    public int getMinIndex() {
-        return minIndex;
-    }
-
-    /**
-     * 设置
-     * @param minIndex
-     */
-    public void setMinIndex(int minIndex) {
-        this.minIndex = minIndex;
-    }
-
-    public String toString() {
-        return "Block{max = " + max + ", maxIndex = " + maxIndex + ", minIndex = " + minIndex + "}";
-    }
 }
