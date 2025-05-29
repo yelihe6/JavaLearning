@@ -9,6 +9,7 @@ public class demo {
 
 
         Collection<String> collection = new ArrayList<>();
+//        Collection<String> collection1= new
         collection.add("夏冰倩");
         collection.add("方伊茹");
         collection.add("阮怡");

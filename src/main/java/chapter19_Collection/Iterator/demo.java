@@ -17,10 +17,11 @@ public class demo {
         // 迭代器对象 ...
         // 指针一次性 , 不可复位
         try {
-            Iterator iterator = coll.iterator();
+            Iterator<String> iterator = coll.iterator();
 
             // 指针自动指向
             while (iterator.hasNext()) {
+                //获取元素并移动指针到下一个元素
                 System.out.println(iterator.next());
 
                 Thread.sleep(1000);
