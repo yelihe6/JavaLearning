@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e9e2b5d-cc7a-4b4b-b809-fd99e8e47dbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AllPractice/y2025m5d29/DutchNationalFlagProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter19_Collection/Foreach/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter19_Collection/Foreach/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter19_Collection/Iterator/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter19_Collection/Iterator/demo.java" afterDir="false" />
-    </list>
+    <list default="true" id="5e9e2b5d-cc7a-4b4b-b809-fd99e8e47dbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -180,11 +180,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DutchNationalFlagProblem" />
-        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.ArrayMerge" />
         <item itemvalue="Application.MoveZeros" />
         <item itemvalue="Application.GetTargetNumbers" />
-        <item itemvalue="Application.ArrayMerge" />
+        <item itemvalue="Application.DutchNationalFlagProblem" />
+        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,7 @@
       <workItem from="1748272141561" duration="20998000" />
       <workItem from="1748322314628" duration="9499000" />
       <workItem from="1748434101460" duration="7150000" />
-      <workItem from="1748507532931" duration="6277000" />
+      <workItem from="1748507532931" duration="7305000" />
     </task>
     <servers />
   </component>
